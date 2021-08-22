@@ -1,4 +1,5 @@
 
+
 Step 1: Setup the Godwoken Testnet Network in MetaMask
 
     Your MetaMask wallet will need to be configured to communicate with the Godwoken Layer 2 network. To do this, you will need to configure a new custom RPC. From the network selection dropdown, select “Custom RPC”.

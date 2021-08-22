@@ -27,6 +27,7 @@ In this step you need to create an account on the Testnet Nervos CKB Layer 1 blo
 
 In this step you need to make a deposit of CKBytes from Layer 1 to the Layer 2 which is provided by Godwoken. This step is necessary for Godwoken to create the user’s Layer 2 account. This can be done by following the instructions given here.
 
+This step should have been done in the previous bounty tasks
 
 Step 3: Clone your existing dApp
 
